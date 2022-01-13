@@ -1,0 +1,35 @@
+_repo: In-the-Year-Ten-Thousand_67122
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harben, Will N. (Will Nathaniel)
+    alias: Harben, William Nathaniel
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '1923'
+    url: http://www.gutenberg.org/2009/agents/1923
+    wikipedia: https://en.wikipedia.org/wiki/William_Harben
+  editor:
+    agent_name: Flower, B. O. (Benjamin Orange)
+    birthdate: 1858
+    deathdate: 1918
+    gutenberg_agent_id: '8475'
+    url: http://www.gutenberg.org/2009/agents/8475
+description: ''
+gutenberg_issued: '2022-01-07'
+identifiers:
+  gutenberg: '67122'
+language: en
+pgterms:marc904: https://archive.org/details/ArenaMagazine-Volume06/page/n765
+pgterms:marc905: 20220105153851harben
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Arena Publishing Company,1892.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In the Year Ten Thousand
+url: http://www.gutenberg.org/ebooks/67122

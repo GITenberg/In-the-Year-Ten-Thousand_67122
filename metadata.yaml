@@ -1,5 +1,8 @@
 _repo: In-the-Year-Ten-Thousand_67122
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67122-h/images/cover.jpg
 creator:
   author:
     agent_name: Harben, Will N. (Will Nathaniel)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '8475'
     url: http://www.gutenberg.org/2009/agents/8475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67122#In-the-Year-Ten-Thousand
 gutenberg_issued: '2022-01-07'
 identifiers:
   gutenberg: '67122'
